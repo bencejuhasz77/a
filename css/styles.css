@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background-color: #1B262C;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    color: #BBE1FA;
+}
+
+h1 {
+    color: #BBE1FA;
+    font-size: 3rem;
+    font-family: 'Sacramento', cursive;
+    font-size: 4em;
+}
+
+h2 {
+    color:#BBE1FA;
+    font-size: 2rem;
+}
+
+h3 {
+    color: #BBE1FA;
+}
+
+.background-image {
+    position: relative;
+    width: 100%;
+    height: auto;
+    border: 0px 0px 50px 0px;
+}
+
+.top-container {
+    position: relative;
+
+}
+
+.centered {
+    position: absolute;
+    top: 15%;
+    text-align: center;
+    width: 100%;
+}
+
+.skills-gif {
+    width: 20%;
+}
+
+.projects-gif {
+    width: 15%;
+}
+
+hr {
+    border-color: #BBE1FA;
+}
